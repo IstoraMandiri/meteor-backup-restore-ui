@@ -1,0 +1,11 @@
+<template name='backupRestoreControls'>
+  <div class="backup-restore-controls">
+    <div class="form-group">
+      <label for="upload-backup">Upload Backup {{#if uploadingBackup}}In Progress...{{/if}}</label>
+      <input type="file" id="upload-backup">
+    </div>
+    <div class="form-group">
+      <button id='download-backup' class='btn btn-default btn-primary' >Download Backup</button>
+    </div>
+  </div>
+</template>
