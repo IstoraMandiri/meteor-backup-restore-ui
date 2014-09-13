@@ -8,7 +8,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.1.1');
 
-  api.imply('hitchcott:backup-restore')
+  api.imply('hitchcott:backup-restore@0.1.0')
 
   api.use([
     'coffeescript',

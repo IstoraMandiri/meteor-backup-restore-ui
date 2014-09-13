@@ -2,7 +2,7 @@
   "dependencies": [
     [
       "application-configuration",
-      "1.0.1"
+      "1.0.1-glasser1"
     ],
     [
       "binary-heap",
@@ -10,7 +10,7 @@
     ],
     [
       "blaze",
-      "2.0.0"
+      "1.0.0"
     ],
     [
       "blaze-tools",
@@ -30,15 +30,19 @@
     ],
     [
       "ddp",
-      "1.0.8"
+      "1.0.8-rc0"
+    ],
+    [
+      "deps",
+      "1.0.0"
     ],
     [
       "ejson",
-      "1.0.1"
+      "1.0.1-rc0"
     ],
     [
       "follower-livedata",
-      "1.0.1"
+      "1.0.1-rc0"
     ],
     [
       "geojson-utils",
@@ -46,7 +50,7 @@
     ],
     [
       "hitchcott:backup-restore",
-      "0.0.0"
+      "0.1.0"
     ],
     [
       "html-tools",
@@ -70,7 +74,7 @@
     ],
     [
       "logging",
-      "1.0.2"
+      "1.0.2-cordova2"
     ],
     [
       "meteor",
@@ -78,11 +82,11 @@
     ],
     [
       "minifiers",
-      "1.0.2"
+      "1.0.2-glasser1"
     ],
     [
       "minimongo",
-      "1.0.2"
+      "1.0.0"
     ],
     [
       "mongo",
@@ -90,7 +94,7 @@
     ],
     [
       "observe-sequence",
-      "1.0.2"
+      "1.0.1"
     ],
     [
       "ordered-dict",
@@ -99,10 +103,6 @@
     [
       "random",
       "1.0.0"
-    ],
-    [
-      "reactive-var",
-      "1.0.1"
     ],
     [
       "retry",
@@ -114,7 +114,7 @@
     ],
     [
       "spacebars",
-      "1.0.1"
+      "1.0.1-rc0"
     ],
     [
       "spacebars-compiler",
@@ -126,7 +126,7 @@
     ],
     [
       "tracker",
-      "1.0.2"
+      "1.0.2-rc0"
     ],
     [
       "underscore",
